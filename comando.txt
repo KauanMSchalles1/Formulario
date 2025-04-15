@@ -1,0 +1,5 @@
+cd . entra no vs code
+mkdir cria uma 'pasta' no vs code
+cd .. volta uma 'pasta'
+cd tab entra diretamente na 'pasta'
+ls your list your file on director
